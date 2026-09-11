@@ -1,2 +1,2 @@
 # sonu
-I front end developer  with html,  css  ,java script
+I am a front end developer  with html,  css  ,java script
